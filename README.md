@@ -20,4 +20,5 @@ Après avoir lu en détail le cahier des charges, vous vous préparez à vous re
 
 Vous embarquez le post-it dans vos affaires et vous dirigez donc à présent vers les bureaux de l’ONCFM pour commencer votre mission.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/064ac386-cb15-4cac-8928-f8b963105085)
+
