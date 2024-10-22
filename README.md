@@ -1,6 +1,6 @@
 # Projet-n10
-<p align="center"><strong>Détectez des faux billets avec Python</strong></p>
 
+<p align="center"><strong><h1>Détectez des faux billets avec Python</h1></strong></p>
 
 
 ![image](https://github.com/user-attachments/assets/400cc19c-234c-4d4b-8622-1f15561223c2)
