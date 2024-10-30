@@ -1,4 +1,4 @@
-# Projet-n10
+# Projet OC n°10
 
 <p align="center"><strong><h1>Détectez des faux billets avec Python</h1></strong></p>
 
